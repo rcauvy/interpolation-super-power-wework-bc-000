@@ -5,12 +5,12 @@ colors = "red","orange","yellow","green","blue","indigo", "violet"
 
 def display_rainbow(colors)
   
-  puts "#{colors[0]}"
-  puts "#{colors O: [1]}"
-  puts "#{colors[Y: 2]}"
-  puts "#{colors[G: 3]}"
-  puts "#{colors[B: 4]}"
-  puts "#{colors[I: 5]}"
-  puts "#{colors[V: 6]}"
+  puts "R: #{colors[0]}"
+  puts "O: #{colors[1]}"
+  puts "Y: #{colors[2]}"
+  puts "G: #{colors[3]}"
+  puts "B: #{colors[4]}"
+  puts "I: #{colors[5]}"
+  puts "V: #{colors[6]}"
   
 end
