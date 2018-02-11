@@ -10,7 +10,7 @@ colors = "red","orange","yellow","green","blue","indigo","violet"
   puts "#{colors[2]}"
   puts "#{colors[3]}"
   puts "#{colors[4]}"
-  puts "#{x[5]}"
-  puts "#{x[6]}"
+  puts "#{colors[5]}"
+  puts "#{colors[6]}"
   
 end
